@@ -1,4 +1,4 @@
-# Resolução dos Desafios do Módulo 1
+# Resolução dos Desafios do Módulo 2
 ### Curso Lógica de Programação (Alura + Oracle Next Education)
 
 👉🏻 Conceitos aplicados: variáveis, condicionais (if-else), loops (while) e interações com o usuário (alert, prompt).
