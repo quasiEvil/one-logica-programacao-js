@@ -10,4 +10,5 @@ Resolução dos desafios do curso "Lógica de programação: mergulhe em program
 - Loops e tentativas
 - Boas práticas de programação
 - Desafio
+  
 *Foram feitas 49 de 49 atividades.*
